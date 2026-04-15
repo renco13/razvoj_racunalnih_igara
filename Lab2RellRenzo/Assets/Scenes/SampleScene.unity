@@ -1395,10 +1395,10 @@ MonoBehaviour:
   weaponModel: {fileID: 1424219118}
   fpsWeaponAnchor: {fileID: 247183754}
   tpsWeaponAnchor: {fileID: 1770045575}
-  fpsWeaponLocalPosition: {x: 0, y: 0, z: 0}
-  fpsWeaponLocalEuler: {x: 20, y: 40, z: 0}
-  tpsWeaponLocalPosition: {x: 0, y: 0, z: 0}
-  tpsWeaponLocalEuler: {x: 0, y: 0, z: 0}
+  fpsWeaponLocalPosition: {x: 0.8, y: 0, z: -0.8}
+  fpsWeaponLocalEuler: {x: 0, y: 90, z: 0}
+  tpsWeaponLocalPosition: {x: 0.2, y: 0.4, z: -0.4}
+  tpsWeaponLocalEuler: {x: 0, y: 90, z: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
